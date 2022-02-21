@@ -47,7 +47,7 @@ print("my webserver is running...")
 httpd.serve_forever()
 ~~~
 ## OUTPUT:
-![GitHub Logo](Katugunta  SucharithaSC.png)
+![outptu](?raw=true)
 
 ## RESULT:
 Program Finished Successfully 
